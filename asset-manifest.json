@@ -2,12 +2,13 @@
   "main.css": "main.css",
   "main.js": "bundle.js",
   "./index.html": "./index.html",
-  "trendIconUp.png": "165316a16ddb827df77546ccfa045065.png",
-  "trendIconDown.png": "1f2eb0929126273f4af7ee05aea65686.png",
-  "chaos.png": "41d0ed0683435781edf61ff99249ec12.png",
-  "main-bg.jpg": "4bdc7d1788807ec4f5862ff549ca83a3.jpg",
-  "exalt.png": "82200ac02f4c607447224f90931ad0fc.png",
-  "delete.svg": "8871d567325429245955f7859fbebfbe.svg",
-  "NewContentIcon.png": "8a40da36937fc53be2d368646693ee81.png",
-  "edit.svg": "cd4c3b9ab846276a3a3a1c6aa5661ab4.svg"
+  "NewContentIcon.png": "NewContentIcon.png",
+  "chaos.png": "chaos.png",
+  "delete.svg": "delete.svg",
+  "edit.svg": "edit.svg",
+  "exalt.png": "exalt.png",
+  "logo.png": "logo.png",
+  "main-bg.jpg": "main-bg.jpg",
+  "trendIconDown.png": "trendIconDown.png",
+  "trendIconUp.png": "trendIconUp.png"
 }
