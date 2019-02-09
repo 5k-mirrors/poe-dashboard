@@ -2,13 +2,15 @@
   "main.css": "main.css",
   "main.js": "bundle.js",
   "./index.html": "./index.html",
+  "Accept.svg": "Accept.svg",
+  "Cancel.svg": "Cancel.svg",
+  "Chaos.png": "Chaos.png",
+  "Delete.svg": "Delete.svg",
+  "Edit.svg": "Edit.svg",
+  "Exalt.png": "Exalt.png",
   "NewContentIcon.png": "NewContentIcon.png",
-  "chaos.png": "chaos.png",
-  "delete.svg": "delete.svg",
-  "edit.svg": "edit.svg",
-  "exalt.png": "exalt.png",
+  "TrendIconDown.png": "TrendIconDown.png",
+  "TrendIconUp.png": "TrendIconUp.png",
   "logo.png": "logo.png",
-  "main-bg.jpg": "main-bg.jpg",
-  "trendIconDown.png": "trendIconDown.png",
-  "trendIconUp.png": "trendIconUp.png"
+  "main-bg.jpg": "main-bg.jpg"
 }
