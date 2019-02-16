@@ -3,6 +3,7 @@
   "main.js": "bundle.js",
   "./index.html": "./index.html",
   "Accept.svg": "Accept.svg",
+  "AddTile.svg": "AddTile.svg",
   "Cancel.svg": "Cancel.svg",
   "Chaos.png": "Chaos.png",
   "Delete.svg": "Delete.svg",
