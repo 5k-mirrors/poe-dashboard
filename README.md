@@ -21,4 +21,4 @@ Status and support
 ![alt text](resources/item_dashboard.PNG)
 
 ## Saving / Sharing
-Your choosed items will be remembered by the browser. You can use the URL to share, export and import your list. Always the current, up to date values will be shown on each item.
+Your chosen items will be remembered by the browser. You can use the URL to share, export and import your list. Always the current, up to date values will be shown on each item.
