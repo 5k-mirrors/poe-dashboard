@@ -6,9 +6,9 @@ https://5k-mirrors.github.io/poe-dashboard/
 
 Status and support
 
-- &#x2716; not stable
+- &#x2714; stable
 - &#x2714; supported
-- &#x2714; ongoing development
+- &#x2716; no ongoing development
 
 ## Use cases
 
