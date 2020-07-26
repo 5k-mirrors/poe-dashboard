@@ -9,5 +9,5 @@ export const fetchLeagues = async () => {
   return response
     .json()
     .then(res => LeaguesTransformer(res))
-    .catch((e) => console.error(e));
+    .catch(e => console.error(e));
 };

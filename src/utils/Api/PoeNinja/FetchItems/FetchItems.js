@@ -8,5 +8,5 @@ export const fetchItems = async (itemType, league) => {
   return response
     .json()
     .then(res => res)
-    .catch((e) => console.error(e));
+    .catch(e => console.error(e));
 };
