@@ -1,0 +1,20 @@
+{
+    "presets": ["env", "react"],
+    "plugins": [
+        "transform-class-properties",
+        "transform-object-rest-spread",
+        "babel-plugin-styled-components",
+        [
+            "module-resolver", {
+                "alias": {
+                    "chaosIcon": "./src/resources/assets/PNGIcons/Chaos/Chaos.png",
+                    "exaltIcon": "./src/resources/assets/PNGIcons/Exalt/Exalt.png",
+                    "trendIconDown": "./src/resources/assets/PNGIcons/TrendIconDown/TrendIconDown.png",
+                    "trendIconUp": "./src/resources/assets/PNGIcons/TrendIconUp/TrendIconUp.png",
+                    "mainBg": "./src/resources/assets/MainBg/main-bg.jpg",
+                    "newContentIcon": "./src/resources/assets/PNGIcons/NewContentIcon/NewContentIcon.png",
+                }
+            }
+        ]
+    ]
+}
