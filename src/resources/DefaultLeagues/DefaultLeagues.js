@@ -8,11 +8,11 @@ const defaultLeagues = [
     name: "Hardcore"
   },
   {
-    id: "Betrayal",
+    id: "Harvest",
     name: "Temp SC"
   },
   {
-    id: "Hardcore Betrayal",
+    id: "Hardcore Harvest",
     name: "Temp HC"
   }
 ];
